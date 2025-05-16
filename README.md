@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python for data science
 - 💞️ I’m looking to collaborate on FinTech and service app creation and maintenance.
 - 📫 Email me at mukelwemdluli@gmail.com
-- ⚡ Fun fact: I like designing apps that solve everyday problems - from helping students feel safer on campus to amking restaurant operations run smoother. 
+- ⚡ Fun fact: I like designing apps that solve everyday problems - from helping students feel safer on campus to making restaurant operations run smoother. 
 
 <!---
 mukelwe-m/mukelwe-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
