@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://your-image-or-avatar-url.png" width="160" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/mukelwe-m/mukelwe-m/main/profile_card.png" " width="160" style="border-radius: 10px;"/>
 </p>
 
 ---
