@@ -7,8 +7,6 @@
   <img src="https://raw.githubusercontent.com/mukelwe-m/mukelwe-m/main/profile_card.png" " width="160" style="border-radius: 10px;"/>
 </p>
 
----
-
 ### 🧬 Name: `Mukelwe`
 ### 💼 Type: `Developer`
 ### 🧢 Level: `23`
@@ -38,21 +36,22 @@
 - 🗄️ `SQL Slash` — Slice through tables with powerful queries
 
 ---
+
 #### 🌐 Connect With Me
 
-<a href="https://github.com/mukelwe-m">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mukelwe-mdluli/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/MukelweMdluli">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://medium.com/@mukelwemdluli">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
+<p align="left">
+  <a href="https://github.com/mukelwe-m" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+<br/>
+  <a href="https://www.linkedin.com/in/mukelwe-mdluli/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<br/>
+  <a href="https://medium.com/@kelwe" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -70,7 +69,7 @@
 <p align="center">
   <img src="https://img.icons8.com/plasticine/100/github.png" width="40" />
   <br>
-  <i>"Gotta code 'em all!"</i>
+  <i>"Jesus loves you!"</i>
 </p>
 
 <!---
