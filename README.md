@@ -19,7 +19,7 @@
 | Skill           | Level |
 |----------------|-------|
 | Python          | ⭐⭐⭐⭐⭐|
-| Java            | ⭐⭐⭐⭐  |
+| HTML5, CSS      | ⭐⭐⭐⭐  |
 | C#              | ⭐⭐⭐    |
 | Pandas          | ⭐⭐⭐⭐  |
 | Power BI        | ⭐⭐⭐⭐  |
