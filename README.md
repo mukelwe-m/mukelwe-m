@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <br/>
-  <a href="https://medium.com/@kelwe" style="text-decoration: none;">
+  <a href="[https://medium.com/@kelwe](https://medium.com/@mukelwemdluli)" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
