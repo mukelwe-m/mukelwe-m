@@ -55,13 +55,14 @@
 
 ---
 
-### 📦 Inventory
+### 📦 Projects Inventory
 
 - 💻 VSCode
 - 🐍 Python
 - 🧰 Git & GitHub
 - 🔐 Cyber awareness
-- 🌐 HTML/CSS
+<h3>- 🌐 HTML/CSS</h3>
+<a href="https://mukelwe-m.github.io/pine-city-zoo/">Pine City Zoo</a> 
 - 📚 Ongoing learning!
 
 ---
