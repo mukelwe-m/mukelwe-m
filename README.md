@@ -58,7 +58,6 @@
 ### 📦 Projects Inventory
 
 <h5>- 🐍 Python</h5>
-- 🧰 Git & GitHub
 <h5>- 🔐 Cyber awareness</h5>
 <h5>- 🌐 HTML/CSS</h5>
 <a href="https://mukelwe-m.github.io/pine-city-zoo/">Pine City Zoo</a> 
