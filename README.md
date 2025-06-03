@@ -19,9 +19,9 @@
 | Skill           | Level |
 |----------------|-------|
 | Python          | ⭐⭐⭐⭐⭐|
-| HTML5, CSS      | ⭐⭐⭐⭐  |
-| C#              | ⭐⭐⭐    |
-| Pandas          | ⭐⭐⭐⭐  |
+| HTML5 Family    | ⭐⭐⭐⭐  |
+| Java, C#        | ⭐⭐⭐    |
+| Numpy, pandas   | ⭐⭐⭐⭐  |
 | Power BI        | ⭐⭐⭐⭐  |
 | SQL             | ⭐⭐⭐⭐  |
 
@@ -58,8 +58,10 @@
 ### 📦 Projects Inventory
 
 <h5>- 🐍 Python</h5>
+<a href="#">SME Task Manager</a> 
 <h5>- 🔐 Cyber awareness</h5>
-<h5>- 🌐 HTML/CSS</h5>
+<h5>- 🌐 HTML/CSS/JavaScript</h5>
+<a href="#">Calendar</a>
 <a href="https://mukelwe-m.github.io/pine-city-zoo/">Pine City Zoo</a> 
 <h5>- 📚 Ongoing learning!</h5>
 
