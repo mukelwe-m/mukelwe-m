@@ -9,7 +9,7 @@
 
 ### 🧬 Name: `Mukelwe`
 ### 💼 Type: `Developer`
-### 🧢 Level: `23`
+### 🧢 Age: `23`
 ### 🏞️ Region: `South Africa` 
 
 ---
@@ -22,7 +22,9 @@
 | HTML5 Family    | ⭐⭐⭐⭐  |
 | Java, C#        | ⭐⭐⭐    |
 | Numpy, pandas   | ⭐⭐⭐⭐  |
-| Power BI        | ⭐⭐⭐⭐  |
+| Power BI        | ⭐⭐⭐⭐ |
+| Tableau       | ⭐⭐⭐    |
+| matplotlib        | ⭐⭐      |
 | SQL             | ⭐⭐⭐⭐  |
 
 ---
@@ -57,8 +59,7 @@
 
 ### 📦 Projects Inventory
 
-<h5>- 🐍 Python</h5>
-<a href="#">SME Task Manager</a> 
+
 <h5>- 🔐 Cyber awareness</h5>
 <h5>- 🌐 HTML/CSS/JavaScript</h5>
 <a href="https://mukelwe-m.github.io/calculator">Calculator</a></br>
