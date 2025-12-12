@@ -7,35 +7,37 @@
   <img src="https://raw.githubusercontent.com/mukelwe-m/mukelwe-m/main/profile_card.png" " width="160" style="border-radius: 10px;"/>
 </p>
 
-### 🧬 Name: `Mukelwe`
-### 💼 Type: `Developer`
-### 🧢 Age: `23`
-### 🏞️ Region: `South Africa` 
+### Name: `Mukelwe`
+### Type: `Developer`
+### Age: `23`
+### Region: `South Africa` 
 
 ---
 
 #### 🛠️ Skills
 
-| Skill           | Level |
+| Tools & Language           | Level |
 |----------------|-------|
-| Python          | ⭐⭐⭐⭐⭐|
+| SDLC          | ⭐⭐⭐⭐⭐|
+| Python          | ⭐⭐⭐⭐|
 | HTML5 Family    | ⭐⭐⭐⭐  |
-| Java, C#        | ⭐⭐⭐    |
+| T-SQL, SQL             | ⭐⭐⭐⭐  |
+| C#, .Net        | ⭐⭐⭐    |
+| Systems Analysis & Architecture | ⭐⭐⭐|
 | Numpy, pandas   | ⭐⭐⭐⭐  |
 | Power BI        | ⭐⭐⭐⭐ |
 | Tableau       | ⭐⭐⭐    |
-| matplotlib        | ⭐⭐      |
-| SQL             | ⭐⭐⭐⭐  |
+| ML algorithms | ⭐⭐ | 
+| R        | ⭐⭐      |
 
 ---
 
-#### 🧰 Abilities
+#### 🧰 Abilities and Experience
 
-- 🔄 `Version Control Vortex` — Harness the power of Git to track, branch, and roll back code safely 
-- 📊 `Data Cleanse Crash` — Clean data and outliers with robust preprocessing skills
-- 🐼 `Pandas Slam` — Clean, wrangle, and reshape data like a beast  
-- 🧠 `Insight Surge` — Extract actionable insights from raw datasets
-- 🗄️ `SQL Slash` — Slice through tables with powerful queries
+- 🔄 `Software development lifecycle` 
+I have been part of a development team, where I was a junior helping with production support, system error logging, code debugging. With my information systems qualifucation, I headed up a software architecture project whose goal was to eliminate fragile code dependencies, get a lay of the land before migrating to more robust languages ( R to python for some processes, C# to python for others).  
+- 📊 `Financial market intelligence dashboard` — Frequent mail regarding market intelligence was being sent out to clients, my role was to acquire the data on opened emails vs ignored emails to measure the success of the email campaign. I cleaned, wrangled, and reshaped raw datasets to extract actionable insights from them. 
+- 🗄️ `SQL Slash` — Slice through tables with powerful queries. I have worked with MS SQL server management studio, making use of TSQL and examining Standard Procedures written by senior database administrators. 
 
 ---
 
@@ -57,11 +59,24 @@
 
 ---
 
+### Hackathons 
+MWeb Cybersecurity Capture the Flag
+Details: 
+Flags: 
+Key Learnings: 
+
+FNB App of the Year Hackathon 
+Details:
+Build:
+Key Learning: 
+---
+
 ### 📦 Projects Inventory
 
-
-<h5>- 🔐 Cyber awareness</h5>
-<h5>- 🌐 HTML/CSS/JavaScript</h5>
+<h5>- Safer App</h5><a href="https://mukelwe-m.github.io/calculator">Safer - FNB App of the Year Hackathon</a></br>
+<h5>- SME Website </h5>
+<h5>- KuduEats </h5>
+<h5>- FNB App of the Year academy builds 🌐 HTML/CSS/JavaScript</h5>
 <a href="https://mukelwe-m.github.io/calculator">Calculator</a></br>
 <a href="https://mukelwe-m.github.io/pine-city-zoo/">Pine City Zoo</a> 
 <h5>- 📚 Ongoing learning!</h5>
