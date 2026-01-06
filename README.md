@@ -73,7 +73,7 @@ Key Learning:
 
 ### 📦 Projects Inventory
 
-<h5>- Safer App</h5><a href="https://mukelwe-m.github.io/calculator">Safer - FNB App of the Year Hackathon</a></br>
+<h5>- Safer App</h5><a href="#">Safer - FNB App of the Year Hackathon</a></br>
 <h5>- SME Website </h5>
 <h5>- KuduEats </h5>
 <h5>- FNB App of the Year academy builds 🌐 HTML/CSS/JavaScript</h5>
