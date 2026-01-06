@@ -73,13 +73,12 @@ Key Learning:
 
 ### 📦 Projects Inventory
 
-<h5>- Safer App</h5><a href="#">Safer - FNB App of the Year Hackathon</a></br>
-<h5>- SME Website </h5>
+<h5>- Safer App</h5><a href="https://68ffde9bb1b8cf072e366c8f--safer-app.netlify.app">Safer - FNB App of the Year Hackathon</a></br>
+<h5>- Crochet by Selu Website </h5><a href="https://lovable.dev/projects/a9872fcd-b015-4a21-8ef8-29dcd573ceef"> Crochet by Selu - Web design </a></br> 
 <h5>- KuduEats </h5>
 <h5>- FNB App of the Year academy builds 🌐 HTML/CSS/JavaScript</h5>
 <a href="https://mukelwe-m.github.io/calculator">Calculator</a></br>
 <a href="https://mukelwe-m.github.io/pine-city-zoo/">Pine City Zoo</a> 
-<h5>- 📚 Ongoing learning!</h5>
 
 ---
 
