@@ -3,14 +3,10 @@
   <b>GitHub Profile Card</b>
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mukelwe-m/mukelwe-m/main/profile_card.png" " width="160" style="border-radius: 10px;"/>
-</p>
-
-### Name: `Mukelwe`
-### Type: `Developer`
+### Name: `Mukelwe Mdluli`
+### Type: `Analyst`
 ### Age: `23`
-### Region: `South Africa` 
+### Region: `Cape Town, South Africa` 
 
 ---
 
